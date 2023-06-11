@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgb(48, 46, 46);
+}
+
+.login{
+    /* display: flex; */
+    width: 500px;
+    height: calc(100vh);
+    background-color: rgb(30, 22, 31);
+    margin: auto;
+    border-radius: 20px;
+    border-color: azure;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.user{
+    padding: 20px;
+    margin: auto;
+}
